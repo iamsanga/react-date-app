@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a049f6ebc76f73f5e90b",
+    "revision": "13afb491a314df82d18f",
     "url": "/react-date-app/static/css/main.f856133d.chunk.css"
   },
   {
-    "revision": "a049f6ebc76f73f5e90b",
-    "url": "/react-date-app/static/js/main.ebf803c4.chunk.js"
+    "revision": "13afb491a314df82d18f",
+    "url": "/react-date-app/static/js/main.251a4d16.chunk.js"
   },
   {
     "revision": "228adb9bed4a5bf4e56c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-date-app/static/js/2.54c58c33.chunk.js"
   },
   {
-    "revision": "77e8edcc39858d6f37460dfe4179776a",
+    "revision": "a7fa79640880d6d64f273d3064f882d4",
     "url": "/react-date-app/index.html"
   }
 ];
